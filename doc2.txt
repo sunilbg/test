@@ -1,6 +1,7 @@
 Beyond
 fintech
 unicorns:
+
 Winning in corporate venture
 capital at financial institutions
 Importance of corporate venture investments
@@ -240,11 +241,5 @@ CVCs tend to exhibit herding behavior, which is a recipe for average outcomes—
 9
 Conclusion and key takeaways
 Corporate venture capital can be a daunting path for many financial institutions, but the value should not be ignored. Despite market turbulence and uncertainty, FIs can still find venture opportunities aligned to corporate strategy that will unlock growth and the creation of the business of the future. Additionally, for an FI to not utilize a CVC arm to invest in potential disruptive technology can often mean not having a seat at the table to be part of a future bold play or new market collaboration opportunity with the fintech. For financial institution CVC groups, maintaining differentiated focus on where to play, how to win, and consistent execution is key to valuable returns for the enterprise over time.
-Endnotes
-1.
-FT Partners, 2020 Annual Fintech Almanac, March 2021.
-2.
-Teresa J. James, “Why Citi and other big banks are investing in Latin American fintechs | PaymentsSource,” Trynishoes blog, February 3, 2022.
-3.
-Ibid.
-10
+
+
