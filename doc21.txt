@@ -1,0 +1,251 @@
+Beyond
+fintech
+unicorns:
+
+Winning in corporate venture
+capital at financial institutions
+Importance of corporate venture investments
+The COVID-19 pandemic accelerated
+change in the financial services landscape and future trajectory for all stakeholders, from global players to smaller fintech companies. However, one thing remains consistent across sectors—the growing importance of leading technology as a competitive advantage for financial institutions (FIs). Although many FIs now acknowledge fintechs as a direct and disruptive threat, they are also seen as a source for viable partnerships, talent, and other complementary assets. There are multiple models for FIs to engage with this ecosystem, including as customers, acquirers, partners, and investors. One increasingly popular model is corporate venture capital (CVC), enabling FIs to develop robust expertise and direct exposure to fintechs. CVC can play a key role for FIs navigating the dynamics between traditional FIs and fintechs, but it can also bring complexity along multiple dimensions from internally competing objectives to finding under-explored market niches to pursue.
+CVC trends
+Despite the recent setback in valuations and funding in early 2022, annual fintech venture investment is still substantial, reaching more than $40 billion globally, and CVC participation levels as a percentage of total deal volume and value have also increased, hovering from 35%–40% since 2018.1 CVCs are also gradually moving earlier in the typical alphabet-series venture financing pathway, making more and smaller Series A/B/C investments in addition to maintaining large-scale, later-stage investments. However, consistent with the theme of nontraditional players competing in banking and insurance, more non-FI CVCs are making fintech investments as well. Mature and large-scale fintech unicorns are also rapidly “paying it forward” by creating their own CVC groups. The 2021 economic bounce-back and strengthening of capital markets globally has stabilized FI balance sheets and reinvigorated venture financing appetite. However, is all of this investment creating strategic value, or are the FI CVCs prone to falling victim to the stereotype of “dumb money” chasing leading fintech VCs, in addition to larger diversified VCs? We think FIs need to address four major questions— summarized next—to be successful as the venture marketplace evolves.
+“
+There are
+multiple
+models for FIs
+to engage with
+this ecosystem,
+including as
+customers,
+acquirers,
+partners, and
+investors.”
+2
+Four questions that inform corporate venture capital strategy
+In order to succeed with CVC, FIs should align on four things:
+1.
+Why to venture: Commit to a unified objective.
+2.
+Where to play: Identify where to venture in the fintech ecosystem (e.g., specific capabilities).
+3.
+How to win: Determine the conditions necessary to win in CVC.
+4.
+How to execute: Operationalize in a manner that will maximize value out of the investment.
+1
+2
+3
+4
+Why to venture Defining corporate venture DNA
+Where to play Market niches and time horizons
+How to win Deal offerings and ecosystems
+How to execute People, process, and strategies
+Financial objective Strategic objective
+Time horizon Investment theses Customer markets Business models New technologies
+Contribution to the deal Speed to decision Investing talent Portfolio-added value Collaboration with venture capitalists
+Deal archetypes Partner collaboration Internal process Growth mechanisms
+3
+Why to venture
+While traditional VC investing primarily focuses on financial returns aligned around a fund life cycle, CVC investors typically can invest with both financial and strategic objectives across varying timelines, viewing investments as a key component of the enterprise’s diversified growth portfolio. For a financial institution’s VC arm, a range of priorities, performance metrics, and investment horizons can be the guardrails for decision-making—there is no “one size fits all.” FIs should define the fund’s objectives that support the enterprise’s financial and strategic goals and develop specific criteria to measure success.
+Financial objective Strategic objective
+While all investments made by a CVC Each investment should unify around the should have a financial objective, there is a enterprise’s corporate strategy, identifying distinction between investing for short-term fintechs with strong synergies that can add returns and investing for strategic growth. to their existing or future product offerings If the FI is seeking to maximize financial and/or act as a hedge against future returns through CVC investing, then the industry disruption. FI CVCs should provide firm needs to define short-term and long-optionality to pursue different growth term return benchmarks and prioritize priorities and pathways in the future investment opportunities through that lens. charted in collaboration with each line of However, supporting the FI’s position in the business/business unit, cascading from future financial ecosystem is often a key overall corporate strategy. In most cases, role of the CVC arms of the FIs, including strategic objectives have a long-term return making investments that may have a focus horizon, as acquiring value from the deal can on strategic learning while trading off direct take years to materialize depending on the financial returns. maturity stage of the fintech.
+Once the FI CVC has aligned to the high-level enterprise’s corporate strategy and defined metrics that vary based on expected return horizon, the CVC needs to crystalize the investment theses and markets (what we call “where to play”) and investment model/ types (“how to win”).
+“
+A range of
+priorities …
+can be the
+guardrails
+for decisionmaking—
+there
+is no ‘one size
+fits all.’”
+4
+Where to play
+Choosing “where to play” for the CVC centers on whether the firm decides to invest in familiar businesses or undefined markets of the future. Each investment decision should be viewed through the following lens: How similar to our current business do we want our investments to be, relative to the return timeline, investment theses, customer segments, business models, and available technologies?
+A continuum for each often helps illustrate these where to play decisions. Clear definition here is key to focused business development, prospecting with potential startups, and attracting fintechs aligned to the overall strategy. The decision on where to play across the value chain should be driven by clear objectives defined around the time to returns, typical investment theses, targeted customer markets, business models and architecture, and new technologies.
+Undefined markets of the future Return timelines Long-term, >10 years Multiple market cycles Typical investment theses Move away from competition (“What are others missing?”) Create option value for enterprise Targeted customer markets Newly created customers and future generations Markets that aren’t created yet or are too nascent Business models and architecture New profit pools and economic models Disaggregated and restructured value networks New technologies Undefined and to-be-discovered technologies Breakthrough innovation and human-tech hybrids
+Familiar business of today
+Near-term, <3 years Within current market cycle
+Seek competitive parity (“Where are others investing?”)
+Capture value forline of business/business unit
+Known customer sets and current generations Clearly segmented markets
+Existing profit pools and unit economics Current value chains and business architectures
+Incremental and sustaining technologies Point solutions and ring-fenced disruption
+5
+Return timelines
+Corporate priorities should help shed light on time horizon. FIs looking to maximize short-term returns will likely be looking at risk-averse investments with a shorter timetable on ROI. These FIs will also look to play in familiar spaces, seeking mature fintechs with positive cash flow and a defined customer base. FIs with longer time horizons can venture into promising but unproven markets or place bets on future ecosystems, preparing to navigate multiple economic cycles before realizing financial returns. For example, FIs looking to invest in real-time payments and money transfers validated and secured by biometrics or blockchain technologies are wading into the next generation of financial services, which requires patience to develop and realize a return.
+Typical investment theses
+Many FIs will analyze the investing activity of their competitors to better understand trends in their market and identify which capabilities are capturing the attention of FIs. While monitoring the investment activity of competitors is a sound practice to achieve competitive parity, moving away from competitors’ decision-making and asking “What are others missing?” can create option value for the enterprise by being the first to market for a service or capability.
+Targeted customer markets
+Understanding desired customer markets will be key in assessing where to play in the FI value chain. FIs can start segmenting their customer market by first choosing to pursue customer sets in known markets or by positioning for newly created customers in future markets. From there, FIs can further segment the market by looking at geographic, demographic, and behavioral differentiators.
+Business models and architecture
+FIs should also identify their target business model. For instance, Lending-as-a-Service and embedded finance business models have gained traction over the past decade, as evolving regulation has made issuing loans more challenging. Fintech capabilities can help strengthen an FI’s business lending service by automating the lending decisioning process, which includes examining an applicant’s financial records in minutes instead of weeks and sourcing more real-time data through various sources to identify true payback capabilities, allowing traditionally very risk-averse institutions to extend out of their comfort zones. These capabilities, as an example, accelerate decision-making, reduce costs, and differentiate the FI in a crowded market.
+New technologies
+Building from the earlier example of Lending-as-a-Service, loan providers/ servicers have been subject to extensive regulation since the 2008 housing crisis. In this strict regulatory environment, FIs in this space can look to partner with fintechs that have the technology to automate loan application processes and reduce errors caused by loan servicers. Another environmental factor to analyze is customer trends. For example, in retail banking, there has been a 27% reduction in bank branch interactions from 2014–2018, and 20% of banking customers say they are likely to use branches less often, or not at all, even after COVID restrictions eased. This trend toward digital/mobile transactions in the retail banking landscape is an important market variable to take note of, as FIs should be evaluating the fast-changing digital banking capabilities in the short term to keep up with this already mature trend.
+“
+FIs …can place
+bets on future
+ecosystems,
+preparing
+to navigate
+multiple
+economic
+cycles before
+realizing
+financial
+returns.”
+6
+How to win: capabilities that differentiate the CVC
+Once the internal strategy is defined on where the CVC will play, the organization needs to determine how to attract and invest in those companies that meet the CVC investment thesis. Evaluating how to win requires the CVC to decide and communicate a clear vision around how investments are selected and funded, how board seats will be allocated, and whether portfolio companies are strategically selected to be part of a broader ecosystem or are independent, diversified bets.
+Financial capital Unique assets and resources Contribution to the deal Arm’s-length dollars and cents Tangible and stand-alone value Synergy opportunities with FI parent Additive platform value and knowledge assets Speed to deal Rapid diligence and decisions Streamlined and standard external/internal CVC processes Extended deal timelines and evaluation periods Informal processes used where needed to enable action Investing intellectual capital Limited people and time commitments Passive board observers Co-creators and talent sharing from the FI Active board members and FI org engagement Portfolio-added value Large collection of independent bets Investments to hedge corporate risk Clusters of ecosystem-building investments Collaborative fintech portfolio companies and counterparties Collaboration with venture capitalists Ride-along investors with VC leaders Reactive to one-way deal-sharing True peers with VC leaders Platform for lead-sharing and attracting inbound opportunities
+Contribution to the deal
+Each FI can bring distinct sources of value as an investor, but what to contribute to the deal should align with the rest of the CVC portfolio strategy—and be consistent with the relative investment size. When FIs get started with CVC, they usually begin with light-touch minority investments to seek a financial return. Normally these investments
+are betting on a future emerging technology
+that is related to their core product set or something completely outside their core competency that seems to have value and growth potential.
+• Light-touch example: CVC arm for a
+leading FI invested into a fintech that utilizes a digital platform to simplify real estate transactions. The CVC identified the fintech as a solution to streamline transactions in the real estate industry.2 Although real estate is out of the investing entity’s core competency, the opportunity was clear enough for the CVC to take a stake in the promising fintech.
+Although most CVC deals stick to small-tomid-level financial contributions, CVCs can still look to take a higher-integration stake when the synergy is apparent and/or the fintech needs a working partnership to grow.
+7
+• High-touch example: An FI’s CVC
+arm took a significant stake in a fullservice
+digital bank, as part of the FI’s
+strategy to create a global online retail
+bank.3 The FI’s expertise in banking will
+also lend as a guiding hand to support
+the fintech as it continues to evolve its
+platform and capabilities.
+Speed to deal
+In some cases, slower deal processes
+may be preferred, and others, it can be
+structured deliberately with optionality
+to allow for the FI and target fintech to
+determine whether the match is right over
+time. Speed can also be a competitive
+advantage for FIs. If a fintech is looking for
+quick deals, FIs with the means for a faster
+deal may appear more attractive as an
+investor to the fintech.
+Investing intellectual capital
+Talent integration is often one of the key
+attractions to both the FI and the fintech. FIs
+can bring relevant expertise, regulatory
+familiarity, and extensive partnership
+networks to their CVC portfolio companies.
+Along the continuum of engagement with
+the portfolio company, board seats can be
+either passive and few or active and many.
+The CVCs decision on board alignment
+needs to reflect the overarching
+engagement model strategy. If following the
+“high integration” model, FI CVCs need to be
+ready to bring strong, experienced leaders
+to their portfolio companies’ board seats
+who can provide expertise and help shape
+the fintech’s thinking.
+Portfolio-added value
+Identifying the portfolio-added value
+will be critical in executing CVC and should
+again circle back to the overall objective.
+Highly integrated CVCs strive to create
+clusters of ecosystem-building investments
+that are additive to each other rather
+than directly competitive. The services
+and solutions are complementary and
+strategically included in the CVCs’ portfolio
+to build upon each other. FI partners are
+also available to their portfolio companies—
+technology, business, sales leaders, and
+partners can be made available to advise
+and support the organic growth of each
+portfolio company. Customers may even
+be shared across portfolio companies and
+the FI—essentially co-creating value at each
+possible intersection.
+Collaboration with
+venture capitalists
+Similar to adding value for its target
+investment portfolio companies, each FI
+CVC should have deliberate positioning
+relative to venture firms and other FI CVCs
+in the ecosystem. Without it, the FI is
+prone to becoming “dumb money.” Bringing
+differentiated FI resources to each deal
+creates value for co-investors and can
+position the FI as a go-to venture partner.
+This co-opetition can take the form of
+providing a brand stamp of approval,
+introducing deep sector and product
+expertise, providing future investment exit
+opportunities, separate financing
+arrangements and commercial banking
+services for the venture firm, and so forth.
+“Have
+deliberate
+positioning
+relative to
+other venture
+and CVCs.
+Without it, the
+FI is prone
+to becoming
+‘dumb money.’”
+Example Stage Objective Description
+Top-10 super-regional bank and emerging
+cloud data player
+Early,
+Series D
+Strategic
+• $5 million early-stage investment in a promising cloud-based data warehouse
+enabler
+• Customer service agreement negotiated in parallel
+Global securities merchant bank and
+scaling corporate payments organization
+Mid Financial • $150 million debt financing deal in automation fintech
+• Large CVC managing a distinct portfolio for financial investment purposes
+Global multi-line insurer and disruptive
+insurance innovator
+Late Strategic
+• Strategic risk option allowing acquirer to stay at the cutting-edge of insurtech
+• Investment play to utilize the fintech’s B2C expertise to accelerate the
+digitization of the acquirer’s B2B products
+Top-10 super-regional bank and focused
+DEI URM financial services provider
+Early,
+Series A
+Strategic
+• Part of a Series A capital raise with several other FI investors
+• Portfolio company friendly investment as part of acquirer’s goal to advance
+economic empowerment of minorities in financial services
+8
+How to execute
+Although the steps seem simple, each choice across the CVC decision chain requires intensive research and industry expertise. The fintech ecosystem is a crowded space, and identifying the right target with a core capability that meets the overall objective is easier said than done. In order to execute CVC effectively, FIs can follow a few key principles centered on deal structure, partner collaboration, internal organization processes, and growth mechanisms.
+Deal structure
+Developing target deal archetypes allows organizations to minimize complexity and identify attractive deals when the opportunities arise. This also allows the FI to standardize deal structures, accelerating speed to decision. Deal types should be categorized by objective and early-to-late stage with “must-have” terms determined. Analyzing deals made by other players in the market can give better insight into which deal archetypes are appropriate for your organization.
+Partner collaboration
+FIs should incorporate external partnerships and business platform development into portfolio planning to identify synergy opportunities across the financial ecosystem. For instance, entities involved in bancassurance, the partnership between insurance companies and banks to expand the sales of insurance products to banking clients, should collaborate with one another before investing into a fintech with a capability in proximity to the bancassurance model.
+Internal organization processes
+In addition to external collaboration, FIs need to be internally aligned across their silos and have set processes with regular communication between the CVC arm and the rest of the internal organization. One critical process is synchronizing investment activities with other enterprise financing decisions and deadlines. Enterprise finance teams should be involved to optimize planning for initial investments, intermediate funding rounds, manage portfolio liquidity, decide on accounting treatment, and determine tax implications.
+Capability evaluation and development
+FIs must rigorously evaluate the capability set of prospective CVC investments, including their complementarity with the FI’s own internal strengths and gap areas. Growth-focused fintech capability assessment accelerators can help deepen analysis and accelerate the CVC strategy and portfolio decision-making. Proprietary research and customer insights can also support an investment thesis and subsequently guide prioritization of new commercial opportunities to grow the business over time. Ultimately the FI and
+any portfolio company can co-create a
+development road map together for both to benefit.
+Align at executive level on CVC objectives
+Identify clear objectives at the portfolio level and remain consistent throughout, especially as the portfolio matures and results are realized
+Build the A-team
+Effective CVC teams often have a diverse mix of investing acumen, core business, and technology experience at the organization and leadership that is well-networked in the venture ecosystem
+Start small
+Begin with light-touch, low-dollar investments into new technologies or areas of growth that are adjacent to existing businesses
+Collaborate within the enterprise
+Create a clear internal operating model around CVC and engage internal business leaders to ideate, source, evaluate, and make each investment
+Do something different
+CVCs tend to exhibit herding behavior, which is a recipe for average outcomes—new FI CVCs should consider how their objectives and strategy are truly different in ways that can lead to distinctive outcomes supporting the enterprise
+9
+Conclusion and key takeaways
+Corporate venture capital can be a daunting path for many financial institutions, but the value should not be ignored. Despite market turbulence and uncertainty, FIs can still find venture opportunities aligned to corporate strategy that will unlock growth and the creation of the business of the future. Additionally, for an FI to not utilize a CVC arm to invest in potential disruptive technology can often mean not having a seat at the table to be part of a future bold play or new market collaboration opportunity with the fintech. For financial institution CVC groups, maintaining differentiated focus on where to play, how to win, and consistent execution is key to valuable returns for the enterprise over time.
+Endnotes
+1.
+FT Partners, 2020 Annual Fintech Almanac, March 2021.
+2.
+Teresa J. James, “Why Citi and other big banks are investing in Latin American fintechs | PaymentsSource,” Trynishoes blog, February 3, 2022.
+3.
+Ibid.
+10
